@@ -8,7 +8,6 @@ Vue.use(VueFormulate);
 
 // import '/assets/formulate.css';
 
-Vue.component('pagination', require('laravel-vue-pagination'));
 
 
 

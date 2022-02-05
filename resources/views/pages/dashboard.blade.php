@@ -3,7 +3,7 @@
 
 
 <head>
-    <title>Education Master Template</title>
+    <title>Air Force Comprehensive School</title>
     <!-- META TAGS -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -83,7 +83,7 @@
                                 <li><a href="events.html">Events</a></li>
                                 <li><a href="event-details.html">Event details</a></li>
                                 <li><a href="event-register.html">Event register</a></li>
-                                <li><a href="contact-us.html">Contact us</a></li>
+                                <!-- <li><a href="contact-us.html">Contact us</a></li> -->
                             </ul>
                             <h4>User Profile</h4>
                             <ul>
@@ -109,7 +109,7 @@
                     <div class="col-md-12">
                         <div class="ed-com-t1-left">
                             <ul>
-                                <li><a href="#">Contact: Lake Road, Suite 180 Farmington Hills, U.S.A.</a>
+                                <li><a href="#">Contact:  Sanusi Akere Street, Ring Road, Oluyole, Ibadan, Oyo State.</a>
                                 </li>
                                 <li><a href="#">Phone: +101-1231-1231</a>
                                 </li>
@@ -448,9 +448,45 @@
                     <div class="udb">
 
                         <div class="udb-sec udb-prof">
-                            <h4><img src="images/icon/db1.png" alt="" /> My Profile</h4>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed
-                                to using 'Content here, content here', making it look like readable English.</p>
+                            <h4><img src="images/icon/db1.png" alt="" /> My Result</h4>
+
+                            <table style="float:right">
+                                <tr>
+                                    <th>Course</th>
+                                    <th>Score</th>
+                                    <th>Grade</th>
+                                </tr>
+                                <tr>
+                                    <td>Software Testing</td>
+                                    <td>76</td>
+                                    <td>A</td>
+                                </tr>
+                                <tr>
+                                    <td>Mechanical Design Classes</td>
+                                    <td>64</td>
+                                    <td>B</td>
+                                </tr>
+                                <tr>
+                                    <td>Agriculture</td>
+                                    <td>55</td>
+                                    <td>C</td>
+                                </tr>
+                                <tr>
+                                    <td>Google Product Training</td>
+                                    <td>89</td>
+                                    <td>A</td>
+                                </tr>
+                                <tr>
+                                    <td>Web Design & Development</td>
+                                    <td>39</td>
+                                    <td>F</td>
+                                </tr>
+                                <tr>
+                                    <td>Mechanical Design Classes</td>
+                                    <td>48</td>
+                                    <td>D</td>
+                                </tr>
+                                </table>
                         </div>
                         <div class="udb-sec udb-cour">
                             <h4><img src="images/icon/db2.png" alt="" /> Booking Courses</h4>

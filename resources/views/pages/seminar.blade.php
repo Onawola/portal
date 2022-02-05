@@ -3,7 +3,7 @@
 
 
 <head>
-    <title>Education Master Template</title>
+    <title>JSAY University</title>
     <!-- META TAGS -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -83,7 +83,7 @@
                                 <li><a href="events.html">Events</a></li>
                                 <li><a href="event-details.html">Event details</a></li>
                                 <li><a href="event-register.html">Event register</a></li>
-                                <li><a href="contact-us.html">Contact us</a></li>
+                                <!-- <li><a href="contact-us.html">Contact us</a></li> -->
                             </ul>
                             <h4>User Profile</h4>
                             <ul>

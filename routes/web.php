@@ -165,41 +165,6 @@ Route::get( '/admin-view-enquiry', function(){ return view('pages.admin-view-enq
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Route::any( '(.*)', function( $page ){
     dd($page);
 });
